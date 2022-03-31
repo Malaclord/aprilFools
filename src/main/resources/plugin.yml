@@ -1,0 +1,4 @@
+name: AprilFools
+version: '${project.version}'
+main: com.malaclord.aprilfools.AprilFools
+api-version: 1.18
